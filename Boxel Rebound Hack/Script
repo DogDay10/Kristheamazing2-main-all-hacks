@@ -4,7 +4,7 @@
 			if (dragItem === undefined) dragItem = container;
 
 			var xOffset = yOffset = 0,
-				active = false,
+				active = false
 				currentX,
 				currentY,
 				initialX,
